@@ -2,7 +2,7 @@
 //  NewUserViewController.swift
 //  lesson3
 //
-//  Created by Susanna Zakaryan on 20.06.2023.
+//  Created by Susanna R on 20.06.2023.
 //
 
 import UIKit
